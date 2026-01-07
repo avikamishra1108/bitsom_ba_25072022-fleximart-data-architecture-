@@ -13,7 +13,7 @@ import os
 DB_CONFIG = {
     "host": "localhost",
     "user": "root",
-    "password": "KITTEN1113",
+    "password": "******",
     "database": "fleximart"
 }
 
