@@ -35,12 +35,11 @@ This project implements an end-to-end data architecture solution for *FlexiMart*
 
 ## Technologies Used
 
-- **Programming:** Python 3.x, pandas  
-- **Relational Databases:** MySQL 8.0  
-- **NoSQL Database:** MongoDB 6.0  
+- **Programming:** Python 3.13, pandas  
+- **Relational Databases:** MySQL 8.0.42
+- **NoSQL Database:** MongoDB 8.2.3
 - **Data Warehousing:** Star Schema (Dimensional Modeling)  
-- **Tools:** VS Code, MongoDB Compass, Git, GitHub  
-
+- **Tools:** VS Code, MongoDB Compass, Git, GitHub, Mysql 
 ---
 
 ## Setup Instructions
