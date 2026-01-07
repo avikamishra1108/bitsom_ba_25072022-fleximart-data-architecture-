@@ -1,0 +1,5 @@
+### 📄 part1-database-etl/requirements.txt
+
+```txt
+pandas
+mysql-connector-python

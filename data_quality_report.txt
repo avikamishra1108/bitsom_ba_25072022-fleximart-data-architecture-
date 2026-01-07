@@ -1,5 +1,0 @@
-Customers processed: 26, duplicates removed: 1, missing values handled: 5, records loaded: 25
-Products processed: 20, duplicates removed: 0, missing values handled: 4, records loaded: 20
-Sales processed: 41, duplicates removed: 1, missing values handled: 7,
-orders loaded: 40, order items loaded: 40
-

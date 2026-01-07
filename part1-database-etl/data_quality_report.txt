@@ -1,0 +1,3 @@
+Customers processed: 26, duplicates removed: 1
+Products processed: 20, duplicates removed: 0
+Sales processed: 41, duplicates removed: 1
